@@ -1,0 +1,15 @@
+<section class="section projects-section">
+
+  <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
+
+  <div class="intro">
+    <p>Unfortunately, I am not allowed to list all the marvelous projects here due to NDA. But some of the projects are described here.</p>
+    <p>My development quality raises increasingly as of professional, so latest projects source code might have been useful.</p>
+    <p>So, in order to introduce you with my lately code writing style, let me invite you to <a href="https://github.com/stepovoy/cv">this CV's source code at my github.</a></p>
+  </div>
+
+  <div *ngFor="let project of projects" class="item">
+    <span class="project-title"><a [href]="project.link" target="_blank">{{ project.title }}</a></span> - <span class="project-tagline">{{ project.description }}</span>
+  </div>
+
+</section>

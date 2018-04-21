@@ -1,0 +1,11 @@
+<div class="education-container container-block">
+
+  <h2 class="container-block-title">Education</h2>
+
+  <div *ngFor="let education of educations" class="item">
+    <h4 class="degree">{{ education.degree }}</h4>
+    <h5 class="meta">{{ education.place }}</h5>
+    <div class="time">{{ education.time }}</div>
+  </div>
+
+</div>

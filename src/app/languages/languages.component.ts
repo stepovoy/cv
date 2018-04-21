@@ -17,11 +17,11 @@ export class LanguagesComponent implements OnInit {
       },
       {
           "name": 'Russian',
-          "level": 'Native - C1',
+          "level": 'Native - C2',
       },
       {
           "name": 'Ukrainian',
-          "level": 'Native - C1',
+          "level": 'Native - C2',
       },
   ]
 

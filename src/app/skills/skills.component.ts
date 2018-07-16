@@ -15,7 +15,7 @@ export class SkillsComponent implements OnInit {
           "percentage": '98'
       },
       {
-          "title": 'EcmaScript 5+ (ES5, ES6, ES7, ES8)',
+          "title": 'EcmaScript 5+',
           "percentage": '98'
       },
       {
@@ -27,11 +27,15 @@ export class SkillsComponent implements OnInit {
           "percentage": '98'
       },
       {
+          "title": 'RabbitMQ',
+          "percentage": '98'
+      },
+      {
           "title": 'Git',
           "percentage": '95'
       },
       {
-          "title": 'Linux',
+          "title": 'Linux/Unix',
           "percentage": '96'
       },
       {
@@ -40,7 +44,7 @@ export class SkillsComponent implements OnInit {
       },
       {
           "title": 'MongoDB',
-          "percentage": '92'
+          "percentage": '94'
       },
       {
           "title": 'MySQL',
@@ -56,11 +60,11 @@ export class SkillsComponent implements OnInit {
       },
       {
           "title": 'Socket.io/SockJs',
-          "percentage": '92'
+          "percentage": '96'
       },
       {
           "title": 'PHP',
-          "percentage": '70'
+          "percentage": '85'
       },
       {
           "title": 'HTML',

@@ -10,6 +10,7 @@ export class InterestsComponent implements OnInit {
       'Psychology',
       'Gym',
       'Long walks',
+      'Photography',
       'Volleyball'
   ]
 

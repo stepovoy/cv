@@ -14,12 +14,12 @@ export class EducationComponent implements OnInit {
         {
             'degree': 'BSc in Computer Science',
             'place': 'NTUU KPI, FICT',
-            'time': 'September 2015 - Present',
+            'time': 'September 2015 - May 2019',
         },
         {
             'degree': 'BSc in Software Engineering',
             'place': 'UNIT Factory Kyiv',
-            'time': 'November 2016 - Present',
+            'time': 'November 2016 - July 2018',
         },
     ];
 

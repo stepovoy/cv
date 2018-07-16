@@ -16,13 +16,13 @@ export class ExperiencesComponent implements OnInit {
         {
             "job-title": 'Full Stack JavaScript (ES5+, Node.js, Angular 5)',
             "company": 'Smartline Group LLC',
-            "time": 'October 2017 - Present',
+            "time": 'November 2017 - July 2018',
             "details": 'Websites and asynchronous services development along with Telegram, Viber, Facebook-messangers chat-bots support and enhancement using Node.js and Angular 5 (2+ including).'
         },
         {
             "job-title": 'Student',
             "company": 'UNIT Factory',
-            "time": 'November 2016 - Present',
+            "time": 'November 2016 - July 2018',
             "details": 'Some of the projects including: online video streamer, which includes parsing torrentwebsite, along with magnet-links and streaming a video while still being downloaded (Complex project), dating website (like Badoo or Tinder) and photo-sharing website (similar to Instagram)'
         },
         {

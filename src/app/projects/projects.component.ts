@@ -13,6 +13,11 @@ export class ProjectsComponent implements OnInit {
         "description": String
     }[] = [
         {
+            "title": 'Soft2bet brands',
+            "link": 'https://soft2bet.com/brands/',
+            "description": 'List of projects, which were build on our platform, we developed and improved.',
+        },
+        {
             "title": 'VeganCity',
             "link": 'http://vegancity.family',
             "description": 'Vegan and Vegetarian Restaurants website. Node.js And Angular 5 project.',

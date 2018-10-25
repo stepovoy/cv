@@ -14,6 +14,12 @@ export class ExperiencesComponent implements OnInit {
       "details": String
     }[] = [
         {
+            "job-title": 'Back-end Developer (ES6+, Node.js)',
+            "company": 'Araxio Development N.V.',
+            "time": 'Since July 2018',
+            "details": 'Back-end integrations of system platform and games providers using REST and even SOAP. Improved and developed platform (added SOAP part), providing websites and services to serve, play and maintain gambling websites. Written several services, such as big data parsing, pdf generation, as well as payments system and game providers integrations. Lots of asynchronous code and ES5 and ES6 features were used, along with patterns to maintain code readability and easily-editable.'
+        },
+        {
             "job-title": 'Full Stack JavaScript (ES5+, Node.js, Angular 5)',
             "company": 'Smartline Group LLC',
             "time": 'November 2017 - July 2018',

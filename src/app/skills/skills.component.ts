@@ -15,7 +15,7 @@ export class SkillsComponent implements OnInit {
           "percentage": '98'
       },
       {
-          "title": 'EcmaScript 5+',
+          "title": 'EcmaScript 6+',
           "percentage": '98'
       },
       {
@@ -32,15 +32,15 @@ export class SkillsComponent implements OnInit {
       },
       {
           "title": 'Git',
-          "percentage": '95'
+          "percentage": '96'
       },
       {
           "title": 'Linux/Unix',
           "percentage": '96'
       },
       {
-          "title": 'LESS/SASS',
-          "percentage": '92'
+          "title": 'Sequelize',
+          "percentage": '96'
       },
       {
           "title": 'MongoDB',
@@ -55,16 +55,16 @@ export class SkillsComponent implements OnInit {
           "percentage": '85'
       },
       {
-          "title": 'MongoDB',
-          "percentage": '95'
-      },
-      {
           "title": 'Socket.io/SockJs',
           "percentage": '96'
       },
       {
-          "title": 'PHP',
-          "percentage": '85'
+          "title": 'WebTorrent',
+          "percentage": '86'
+      },
+      {
+          "title": 'Headless Chrome (Puppeteer)',
+          "percentage": '94'
       },
       {
           "title": 'HTML',
@@ -74,7 +74,11 @@ export class SkillsComponent implements OnInit {
           "title": 'CSS',
           "percentage": '92'
       },
-  ]
+      {
+          "title": 'LESS/SASS',
+          "percentage": '92'
+      }
+  ];
 
   constructor() { }
 
